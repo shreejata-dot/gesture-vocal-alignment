@@ -23,7 +23,7 @@ H2: Preverbal non-referential gestures would align with long vocalisations, mirr
 Raw data from observations were transformed into long format for running permutation tests. 
 We  analyzed two gesture types: R and N gestures, each associated  with SV, LV and no vocalisations (NTH). We calculated actual proportions of each vocalisation type within each gesture category and conducted a permutation test to generate chance distributions of gesture-vocalisation proportions, comparing observed proportions to random chance to compare observed proportions of gesture-vocal associations to shuffled data to test any level of significance. 
 
-[Download R-script](permutation test.R)
+[Download R-script](permutation_test.R)
 
 ## Findings (so far)
 

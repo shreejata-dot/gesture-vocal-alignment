@@ -1,5 +1,6 @@
 # gesture-vocal-alignment (ongoing)
 This repository provides data and R- & Python-scripts to analyse longitudinal development of the alignment of the gesture-vocal modalities for 1-3 year old infants. Goal if this project is to test if the gesture-vocal modalities align similarly in infants before full-fledged speech emergence, mirroring associations found in adult co-speech gestures.
+Collaborators: Lucie Greco, Clément François, Isabelle Dautriche
 
 ## Annotations
 We longitudinally annotated different gesture types in infants from 12- to 18-months from open-source videos on the CHILDES corpus (https://phon.talkbank.org/access/French/Paris.html; https://phon.talkbank.org/access/French/Lyon.html). Further annotations ongoing upto 36-months (n = 6)
